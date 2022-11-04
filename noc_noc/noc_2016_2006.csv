@@ -1,55 +1,55 @@
-NOC2016,noc_title_2016,NOC2006,noc_title_2006
-0011,Legislators,A011,Legislators
-0012,Senior government managers and officials,A011,Legislators
-0012,Senior government managers and officials,A012,Senior government managers and officials
-0013,"Senior managers - financial, communications and other business services",A013,"Senior managers - financial, communications and other business services"
-0014,"Senior managers - health, education, social and community services and membership organizations",A014,"Senior managers - health, education, social and community services and membership organizations"
-0015,"Senior managers - trade, broadcasting and other services, n.e.c.",A015,"Senior managers - trade, broadcasting and other services, n.e.c."
-0016,"Senior managers - construction, transportation, production and utilities",A016,"Senior managers - goods production, utilities, transportation and construction"
-0111,Financial managers,A111,Financial managers
-0112,Human resources managers,A112,Human resources managers
-0113,Purchasing managers,A113,Purchasing managers
-0114,Other administrative services managers,A114,Other administrative services managers
-0121,"Insurance, real estate and financial brokerage managers",A301,"Insurance, real estate and financial brokerage managers"
-0122,"Banking, credit and other investment managers",A302,"Banking, credit and other investment managers"
-0124,"Advertising, marketing and public relations managers",A131,"Sales, marketing and advertising managers"
-0125,Other business services managers,A303,Other business services managers
-0131,Telecommunication carriers managers,A311,Telecommunication carriers managers
-0132,Postal and courier services managers,A312,Postal and courier services managers
-0211,Engineering managers,A121,Engineering managers
-0212,Architecture and science managers,A123,Architecture and science managers
-0213,Computer and information systems managers,A122,Computer and information systems managers
-0311,Managers in health care,A321,Managers in health care
-0411,Government managers - health and social policy development and program administration,A331,Government managers - health and social policy development and program administration
-0412,"Government managers - economic analysis, policy development and program administration",A332,"Government managers - economic analysis, policy development and program administration"
-0413,Government managers - education policy development and program administration,A333,Government managers - education policy development and program administration
-0414,Other managers in public administration,A334,Other managers in public administration
-0421,Administrators - post-secondary education and vocational training,A322,Administrators - post-secondary education and vocational training
-0422,School principals and administrators of elementary and secondary education,A323,School principals and administrators of elementary and secondary education
-0423,"Managers in social, community and correctional services",A324,"Managers in social, community and correctional services"
-0431,Commissioned police officers,A351,Commissioned police officers
-0432,Fire chiefs and senior firefighting officers,A352,Fire chiefs and senior firefighting officers
-0433,Commissioned officers of the Canadian Forces,A353,"Commissioned officers, armed forces"
-0511,"Library, archive, museum and art gallery managers",A341,"Library, archive, museum and art gallery managers"
-0512,"Managers - publishing, motion pictures, broadcasting and performing arts",A342,"Managers - publishing, motion pictures, broadcasting and performing arts"
-0513,"Recreation, sports and fitness program and service directors",A343,"Recreation, sports and fitness program and service directors"
-0601,Corporate sales managers,A131,"Sales, marketing and advertising managers"
-0601,Corporate sales managers,A211,Retail trade managers
-0621,Retail and wholesale trade managers,A211,Retail trade managers
-0621,Retail and wholesale trade managers,G011,Retail trade supervisors
-0631,Restaurant and food service managers,A221,Restaurant and food service managers
-0632,Accommodation service managers,A222,Accommodation service managers
-0651,"Managers in customer and personal services, n.e.c.",A361,Other services managers
-0711,Construction managers,A371,Construction managers
-0712,Home building and renovation managers,A372,Residential home builders and renovators
-0714,Facility operation and maintenance managers,A141,Facility operation and maintenance managers
-0731,Managers in transportation,A373,Transportation managers
-0811,Managers in natural resources production and fishing,A381,Primary production managers (except agriculture)
-0821,Managers in agriculture,I011,Farmers and farm managers
-0822,Managers in horticulture,I014,Nursery and greenhouse operators and managers
-0823,Managers in aquaculture,I017,Aquaculture operators and managers
-0911,Manufacturing managers,A391,Manufacturing managers
-0912,Utilities managers,A392,Utilities managers
+NOC2016,NOC2016_Title,NOC2006,NOC2006_Title
+11,Legislators,A011,Legislators
+12,Senior government managers and officials,A011,Legislators
+12,Senior government managers and officials,A012,Senior government managers and officials
+13,"Senior managers - financial, communications and other business services",A013,"Senior managers - financial, communications and other business services"
+14,"Senior managers - health, education, social and community services and membership organizations",A014,"Senior managers - health, education, social and community services and membership organizations"
+15,"Senior managers - trade, broadcasting and other services, n.e.c.",A015,"Senior managers - trade, broadcasting and other services, n.e.c."
+16,"Senior managers - construction, transportation, production and utilities",A016,"Senior managers - goods production, utilities, transportation and construction"
+111,Financial managers,A111,Financial managers
+112,Human resources managers,A112,Human resources managers
+113,Purchasing managers,A113,Purchasing managers
+114,Other administrative services managers,A114,Other administrative services managers
+121,"Insurance, real estate and financial brokerage managers",A301,"Insurance, real estate and financial brokerage managers"
+122,"Banking, credit and other investment managers",A302,"Banking, credit and other investment managers"
+124,"Advertising, marketing and public relations managers",A131,"Sales, marketing and advertising managers"
+125,Other business services managers,A303,Other business services managers
+131,Telecommunication carriers managers,A311,Telecommunication carriers managers
+132,Postal and courier services managers,A312,Postal and courier services managers
+211,Engineering managers,A121,Engineering managers
+212,Architecture and science managers,A123,Architecture and science managers
+213,Computer and information systems managers,A122,Computer and information systems managers
+311,Managers in health care,A321,Managers in health care
+411,Government managers - health and social policy development and program administration,A331,Government managers - health and social policy development and program administration
+412,"Government managers - economic analysis, policy development and program administration",A332,"Government managers - economic analysis, policy development and program administration"
+413,Government managers - education policy development and program administration,A333,Government managers - education policy development and program administration
+414,Other managers in public administration,A334,Other managers in public administration
+421,Administrators - post-secondary education and vocational training,A322,Administrators - post-secondary education and vocational training
+422,School principals and administrators of elementary and secondary education,A323,School principals and administrators of elementary and secondary education
+423,"Managers in social, community and correctional services",A324,"Managers in social, community and correctional services"
+431,Commissioned police officers,A351,Commissioned police officers
+432,Fire chiefs and senior firefighting officers,A352,Fire chiefs and senior firefighting officers
+433,Commissioned officers of the Canadian Forces,A353,"Commissioned officers, armed forces"
+511,"Library, archive, museum and art gallery managers",A341,"Library, archive, museum and art gallery managers"
+512,"Managers - publishing, motion pictures, broadcasting and performing arts",A342,"Managers - publishing, motion pictures, broadcasting and performing arts"
+513,"Recreation, sports and fitness program and service directors",A343,"Recreation, sports and fitness program and service directors"
+601,Corporate sales managers,A131,"Sales, marketing and advertising managers"
+601,Corporate sales managers,A211,Retail trade managers
+621,Retail and wholesale trade managers,A211,Retail trade managers
+621,Retail and wholesale trade managers,G011,Retail trade supervisors
+631,Restaurant and food service managers,A221,Restaurant and food service managers
+632,Accommodation service managers,A222,Accommodation service managers
+651,"Managers in customer and personal services, n.e.c.",A361,Other services managers
+711,Construction managers,A371,Construction managers
+712,Home building and renovation managers,A372,Residential home builders and renovators
+714,Facility operation and maintenance managers,A141,Facility operation and maintenance managers
+731,Managers in transportation,A373,Transportation managers
+811,Managers in natural resources production and fishing,A381,Primary production managers (except agriculture)
+821,Managers in agriculture,I011,Farmers and farm managers
+822,Managers in horticulture,I014,Nursery and greenhouse operators and managers
+823,Managers in aquaculture,I017,Aquaculture operators and managers
+911,Manufacturing managers,A391,Manufacturing managers
+912,Utilities managers,A392,Utilities managers
 1111,Financial auditors and accountants,B011,Financial auditors and accountants
 1112,Financial and investment analysts,B012,Financial and investment analysts
 1113,"Securities agents, investment dealers and brokers",B013,"Securities agents, investment dealers and brokers"
