@@ -1,3 +1,5 @@
+#Pre update notice
+We are currently in the process of updating and releasing new sets of crosswalks. Documentations will be added in the coming weeks. For the time being, the previous release crosswalk (onetnoc.csv) has been renamed noc2016_onet20.csv And the description of the file remains the same.
 # NOC to O*Net Crosswalk
 To learn more about what we did: visit this blog (currently unpublished)
 This repository currently contains 1 CSV file, with 1038 rows (1039 with the headers) It has the following columns:
